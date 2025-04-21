@@ -49,10 +49,9 @@ On the web side, I enjoy building responsive, fast-loading websites using **Reac
 
 ## 📫 Let's Connect
 
-- 📧 Email: devsharma.3624@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/dev-sharma-465759307](https://www.linkedin.com/in/dev-sharma-465759307)  
-- 🐦 Twitter: [@DevSharma3624](https://x.com/DevSharma3624)  
-- 🔗 GitHub: [github.com/dev-sharma3624](https://github.com/dev-sharma3624)  
+- 📧 Email: lakshnirman@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/laksh011/
+- 🐦 Twitter:  https://x.com/ARandom67664452
 
 ---
 
