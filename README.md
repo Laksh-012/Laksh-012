@@ -1,13 +1,59 @@
-# 💫 About Me:
-<br><br>Hi there! I'm a passionate game developer and software enthusiast currently working on a Counter-Strike-inspired first-person shooter in Unity 6, complete with custom bots, NavMesh-based AI, and traditional input systems. I love building immersive gameplay experiences from the ground up — from player movement, gun mechanics, and UI systems, to bot behavior and level design.<br><br>Alongside game development, I'm pursuing my BCA (Bachelor of Computer Applications) and actively deepening my skills in Game Dev and Web Dev . I take a structured, detail-oriented approach to learning and love diving into both the creative and technical sides of programming.<br><br>
+# 👋 Hi, I'm Laksh
 
+🎮 Unity Game Developer | 🌐 Web Developer (React & Vite) | 📍 Delhi, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laksh ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ARandom67664452) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshnirman@gmail.com) 
-
-# 💻 Tech Stack:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ---
-[![](https://visitcount.itsvg.in/api?id=Laksh-012&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm a BCA student with a deep passion for **game development** and **modern web technologies**. Currently, I'm developing FPS style games in Unity 6**, featuring custom player mechanics, intelligent AI bots, and immersive gameplay systems.
+
+On the web side, I enjoy building responsive, fast-loading websites using **React** and **Vite**, with a strong focus on clean UI/UX and reusable components.
+
+---
+
+## 🔨 Projects
+
+### 🎮 Unity FPS Game
+- 🎮 First-person controller with smooth movement and jumping  
+- 🔫 Weapon mechanics: firing, reloading, and switching guns  
+- 🤖 AI Bots with NavMesh: patrol, detect, and engage the player  
+- 🧠 Work in progress: smarter bot logic, spawn systems, map design  
+- 🧰 Game UI: ammo counter, health bar, crosshair, hit effects  
+
+### 🌐 Web Development
+- ⚛️ Creating modern web apps using **React + Vite**  
+- 🖥️ Focus on modular design, performance, and accessibility  
+- 🎯 Practicing component-based architecture and state management  
+
+---
+
+## 🛠️ Tech Stack
+
+| Game Development | Web Development | Tools & Platforms       |
+|------------------|-----------------|-------------------------|
+| Unity 6          | React           | Visual Studio Code      |
+| C#               | Vite            | Git & GitHub            |
+| NavMesh AI       | Tailwind CSS    | Figma, Blender (basic)  |
+
+---
+
+## 🚀 Goals
+
+- 🕹️ Release a playable Unity FPS demo with AI bots  
+- ⚙️ Master Unity's advanced systems: animation, physics, AI  
+- 🌐 Build and deploy responsive, scalable web apps  
+- 📁 Grow a portfolio that showcases both web and game projects  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: devsharma.3624@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dev-sharma-465759307](https://www.linkedin.com/in/dev-sharma-465759307)  
+- 🐦 Twitter: [@DevSharma3624](https://x.com/DevSharma3624)  
+- 🔗 GitHub: [github.com/dev-sharma3624](https://github.com/dev-sharma3624)  
+
+---
+
+> “Build what you love. Learn as you go. Share your journey.”
