@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Laksh
 
-🖥️ **WinUI & Desktop Application Developer** | 🤖 **Machine Learning Engineer**
+🖥️ **WinUI & Desktop Application Developer** | 🤖 **Machine Learning**
 
 📍 New Delhi, India
 
