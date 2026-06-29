@@ -1,5 +1,4 @@
-# 
-👋 Hi, I'm Laksh
+##👋 Hi, I'm Laksh
 
 🖥️ WinUI & Desktop Application Developer | 🤖 Machine Learning Engineer
 
@@ -36,21 +35,6 @@ Mobile Development: Android Kotlin Firebase
 Tools: Git GitHub Visual Studio VS Code Android Studio Postman
 
 🌱 Currently Learning: Large Language Models (LLMs) • Computer Vision • Natural Language Processing • AI Agents • Cloud Computing
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-
-**Libraries & Tools**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
 ---
 
 ## 📫 Connect with Me  
