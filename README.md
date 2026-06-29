@@ -1,50 +1,46 @@
-# 👋 Hi, I'm Laksh
+# 
+👋 Hi, I'm Laksh
 
-🎮 Unity Game Developer | 🌐 Web Developer (React & Vite) | 🤖 Machine Learning Enthusiast  
-📍 Delhi, India  
+🖥️ WinUI & Desktop Application Developer | 🤖 Machine Learning Engineer
 
----
-
-## 🧠 About Me  
-I'm a BCA student with a deep passion for **game development, web technologies, and machine learning**.  
-- On the **game development** side, I specialize in FPS-style games built in Unity 6, featuring custom mechanics, AI-driven bots, and immersive systems.  
-- In **web development**, I enjoy creating responsive, fast-loading websites using React and Vite, with a focus on clean UI/UX and reusable components.  
-- In **machine learning**, I’ve implemented algorithms from scratch, worked with scikit-learn pipelines, and explored neural networks and deep learning.  
-
-Currently, I’m expanding my expertise in **AI-driven game bots, computer vision, and NLP**.  
+📍 Delhi, India
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects
+🖥️ Desktop & Mobile Applications :
+  
+  🛡️ SecureSphere – Multi-Platform Security System (In Progress)
+    A security platform featuring a WinUI desktop app, Chrome extension, and web dashboard for malware detection and real-time protection.
+  
+  🚑 Ambulance Route Optimization
+    An Android application that optimizes ambulance routing using real-time traffic and nearby hospital data.
 
-### 🎮 Unity FPS Game  
-- 🎯 First-person controller with smooth movement and jumping  
-- 🔫 Weapon mechanics: firing, reloading, and switching guns  
-- 🤖 AI Bots with NavMesh: patrol, detect, and engage the player  
-- 🧩 Work in progress: smarter bot logic, spawn systems, map design  
-- 🎨 Game UI: ammo counter, health bar, crosshair, hit effects  
+🤖 Artificial Intelligence & Machine Learning :
+  
+  🧠 Implementing Neural Networks with Linear Regression on MNIST
+    Built machine learning algorithms from scratch, culminating in a neural network for handwritten digit classification.
+  
+  🌍 Multi-Language AI Assistant (Upcoming)
+    An AI assistant with multilingual conversation, voice interaction, and LLM-powered capabilities.
 
-### 🌐 Web Development  
-- 💻 Building modern web apps using **React + Vite**  
-- 🎨 Focus on **modular design, performance, and accessibility**  
-- ⚡ Practicing component-based architecture and state management  
+💻 Tech Stack
+Languages: C# Python Java JavaScript Kotlin SQL HTML CSS
 
-### 🤖 Machine Learning  
-- 🔍 Implemented ML algorithms (Linear/Logistic Regression, Decision Trees, Random Forest, Naive Bayes) using **NumPy, Pandas, and scikit-learn**  
-- 🧮 Built **Neural Networks from scratch** in NumPy and trained them on **MNIST**  
-- 📊 Worked on classification, regression, and data visualization tasks  
-- 🚀 Exploring **Deep Learning, NLP, and Computer Vision** applications  
+Desktop Development: WinUI 3 MVVM SQLite
 
----
+AI & Machine Learning: NumPy Pandas Scikit-learn TensorFlow Keras OpenCV
 
-## 🛠 Tech Stack  
+Mobile Development: Android Kotlin Firebase
+
+Tools: Git GitHub Visual Studio VS Code Android Studio Postman
+
+🌱 Currently Learning: Large Language Models (LLMs) • Computer Vision • Natural Language Processing • AI Agents • Cloud Computing
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 
 **Libraries & Tools**  
