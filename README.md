@@ -1,4 +1,4 @@
-##👋 Hi, I'm Laksh
+## 👋 Hi, I'm Laksh
 
 🖥️ WinUI & Desktop Application Developer | 🤖 Machine Learning Engineer
 
@@ -34,7 +34,8 @@ Mobile Development: Android Kotlin Firebase
 
 Tools: Git GitHub Visual Studio VS Code Android Studio Postman
 
-🌱 Currently Learning: Large Language Models (LLMs) • Computer Vision • Natural Language Processing • AI Agents • Cloud Computing
+🌱 Currently Learning: 
+• Large Language Models (LLMs) • Computer Vision • Natural Language Processing • AI Agents • Cloud Computing
 ---
 
 ## 📫 Connect with Me  
